@@ -1,0 +1,1 @@
+web: streamlit run cpu_pred5.py
